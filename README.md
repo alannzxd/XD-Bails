@@ -24,7 +24,7 @@
 
 ### ⚙️ Custom Pairing System
 - Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
-### ❓ How to costum pairing
+### ❓ How to Custom Pairing
 ```bash
 await alanxd.requestPairingCode(phoneNumber, "YOUR-CODE");
 ```
