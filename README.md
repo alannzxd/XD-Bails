@@ -26,7 +26,7 @@
 - Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
 ### ❓ How to costum pairing
 ```bash
-await abails.requestPairingCode(phoneNumber, "YOUR-CODE");
+await alanxd.requestPairingCode(phoneNumber, "YOUR-CODE");
 ```
 
 ### 🔥 Support All Bug Tools
