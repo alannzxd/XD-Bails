@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Keunggulan A:Bails
+## 🚀 Keunggulan XD:Baileys
 
 ### ⚙️ Custom Pairing System
 - Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
@@ -51,7 +51,7 @@ await abails.requestPairingCode(phoneNumber, "YOUR-CODE");
 ## ⚙️ Settings up
 
 ```bash
-"@whiskeysockets/baileys": "github:Alanz-Host/AlannXD",`
+"@whiskeysockets/baileys": "github:Alanz-Host/XD:Baileys",`
 ```
 
 ##  Jimp supported
