@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-Active-success?style=for-the-badge" alt="status">
   <img src="https://img.shields.io/badge/powered_by-Baileys-blueviolet?style=for-the-badge" alt="powered">
-  <img src="https://img.shields.io/badge/license/Alanz-Host/XD-Baileys?style=for-the-badge" alt="license">
+  <img src="https://img.shields.io/badge/A l a nHost/XD-Baileys?style=for-the-badge" alt="license">
 </p>
 
 ---
