@@ -1,7 +1,7 @@
-<h1 align="center"> A:Baileys <h1>
+h1 align="center">A:Bails</h1>
+
 <p align="center">
-  <em>Baileys Coded</em><br>
-  <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
+  <em>Powered by</em> <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
   Developed & Enhanced by <strong>AlannXD</strong>
 </p>
 
@@ -15,46 +15,67 @@
 
 ## 📦 Tentang A:Bails
 
-> **A:Bails** adalah modul lanjutan dari `@whiskeysockets/baileys` dengan sistem **Custom Pairing** dan dukungan penuh terhadap berbagai **WA bug tools**.  
-> Dirancang khusus untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, atau alat automasi WhatsApp tingkat lanjut, maupun bagi yang ingin menggunakan bug.
+**A:Bails** adalah modul lanjutan berbasis `@whiskeysockets/baileys` yang dirancang dengan sistem **Custom Pairing** dan dukungan penuh terhadap berbagai metode **WA bug tools**.  
+Sangat cocok untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, hingga alat automasi WhatsApp tingkat lanjut.
 
 ---
 
-## 🚀 Keunggulan A:Bails
+## 🚀 Fitur Unggulan
 
 ### ⚙️ Custom Pairing System
-- Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
-### ❓ How to costum pairing
-```bash
+- Mendukung generate pairing code untuk penggunaan publik maupun privat.
+
+**Contoh:**
+
 await abails.requestPairingCode(phoneNumber, "YOUR-CODE");
-```
 
-### 🔥 Support All Bug Tools
-- Diuji dan kompatibel dengan berbagai metode bug WhatsApp:
-  - **Invisible Bug**
-  - **Bug Saluran**
-  - **ViewOnce Bypass**
-  - **Group bug**
-  - Dan lainnya...
+🔥 Kompatibel dengan WA Bug Tools
 
-### 🧩 Multi-Session & Flexible
-- Mendukung multi pairing atau rentbot
-- Pengelolaan sesi dengan struktur file yang rapi.
-- Bisa digunakan bersamaan dengan bot Telegram/Panel.
+Telah diuji dengan berbagai metode eksploitasi WhatsApp:
 
-### ⚡ Performa Maksimal
-- Super ringan, cepat, dan stabil.
-- Didukung oleh update dari core Baileys terbaru.
+Invisible Bug
+
+Bug Saluran
+
+ViewOnce Bypass
+
+Group Bug
+
+dan masih banyak lagi...
+
+
+🧩 Multi-Session & Struktur Fleksibel
+
+Mendukung multi-pairing & rentbot.
+
+Struktur file sesi yang rapi dan mudah dikelola.
+
+Bisa digabungkan dengan bot Telegram atau Panel Admin.
+
+
+⚡ Performa Maksimal
+
+Stabil, cepat, dan ringan.
+
+Selalu up-to-date dengan core Baileys terbaru.
+
+
 
 ---
 
-## ⚙️ Settings up
+⚙️ Cara Install
 
-```bash
-"@whiskeysockets/baileys": "github:Alanz-Host/AlannXD",`
-```
+Tambahkan ke package.json:
 
-##  Jimp supported
-```bash
-"jimp": "^0.22.12",
-```
+"@whiskeysockets/baileys": "github:Alanz-Host/AlannXD"
+
+Tambahan (Opsional)
+
+"jimp": "^0.22.12"
+
+
+---
+
+❤️ Dukungan
+
+Jika kamu suka project ini, jangan lupa untuk kasih ⭐ di repo ini dan bantu share ke teman-teman developer lainnya!
