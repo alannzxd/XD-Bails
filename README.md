@@ -51,7 +51,7 @@ await alanxd.requestPairingCode(phoneNumber, "YOUR-CODE");
 ## ⚙️ Settings up
 
 ```bash
-"@whiskeysockets/baileys": "github:Alanz-Host/XD-Baileys",`
+"@whiskeysockets/baileys": "github:alannzxd/XD-Baileys",`
 ```
 
 ##  Jimp supported
