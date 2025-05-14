@@ -1,4 +1,4 @@
-<h1 align="center"> XD-Baileys <h1>
+<h1 align="center"> XD-Bails <h1>
 <p align="center">
   <em>Baileys Coded</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
@@ -13,7 +13,7 @@
 
 ---
 
-## 📦 Tentang XD-Baileys
+## 📦 Tentang XD-Bails
 
 > **XD-Baileys** adalah modul lanjutan dari `@whiskeysockets/baileys` dengan sistem **Custom Pairing** dan dukungan penuh terhadap berbagai **WA bug tools**.  
 > Dirancang khusus untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, atau alat automasi WhatsApp tingkat lanjut, maupun bagi yang ingin menggunakan bug.
@@ -51,7 +51,7 @@ await alanxd.requestPairingCode(phoneNumber, "YOUR-CODE");
 ## ⚙️ Settings up
 
 ```bash
-"@whiskeysockets/baileys": "github:alannzxd/XD-Baileys",`
+"@whiskeysockets/baileys": "github:alannzxd/XD-Bails",`
 ```
 
 ##  Jimp supported
